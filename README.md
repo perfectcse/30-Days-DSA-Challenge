@@ -10,7 +10,7 @@ The goal is to build strong problem-solving skills through daily practice, under
 |---|---|---|
 | Day 1 | DSA Fundamentals, Big-O, Arrays | ✅ Completed |
 | Day 2 | Linear Search & Array Searching | ✅ Completed |
-| Day 3 | Coming Soon | 🔒 |
+| Day 3 | Array | Two Pointer pattern ||||| ✅ Completed |
 
 ## 🎯 Challenge Goals
 
@@ -33,6 +33,6 @@ The goal is to build strong problem-solving skills through daily practice, under
 
 ---
 
-🔥 **Day 2/30 completed.**
+🔥 **Day 3/30 completed.**
 
 > Consistency over perfection. One problem at a time.
