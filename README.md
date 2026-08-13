@@ -11,6 +11,7 @@ The goal is to build strong problem-solving skills through daily practice, under
 | Day 1 | DSA Fundamentals, Big-O, Arrays | ✅ Completed |
 | Day 2 | Linear Search & Array Searching | ✅ Completed |
 | Day 3 | Array  Two Pointer pattern |      ✅ Completed |
+| Day 4 | Frequency Counting, Set & Map|    ✅ Completed |
 
 ## 🎯 Challenge Goals
 
@@ -33,6 +34,6 @@ The goal is to build strong problem-solving skills through daily practice, under
 
 ---
 
-🔥 **Day 3/30 completed.**
+🔥 **Day 4/30 completed.**
 
 > Consistency over perfection. One problem at a time.
