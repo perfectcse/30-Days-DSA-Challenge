@@ -37,3 +37,23 @@ The goal is to build strong problem-solving skills through daily practice, under
 🔥 **Day 4/30 completed.**
 
 > Consistency over perfection. One problem at a time.
+
+Do I need the index?
+       ↓
+      YES → for
+
+Do I only need values?
+       ↓
+      YES → for...of
+
+Do I need object keys?
+       ↓
+      YES → for...in
+
+Do I need to compare two elements?
+       ↓
+      YES → nested loops
+
+Do I need to remember previous elements?
+       ↓
+      YES → Map / Set
