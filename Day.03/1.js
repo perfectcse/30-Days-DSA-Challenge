@@ -31,3 +31,4 @@ console.log(array([10,20,30,40,50]));
 // last digit = num %10
 // reverse = reverse *10+last digit
 // num = num/10
+// DSA 
