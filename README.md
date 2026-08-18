@@ -12,6 +12,7 @@ The goal is to build strong problem-solving skills through daily practice, under
 | Day 2 | Linear Search & Array Searching | ✅ Completed |
 | Day 3 | Array  Two Pointer pattern |      ✅ Completed |
 | Day 4 | Frequency Counting, Set & Map|    ✅ Completed |
+| Day 5 | Arrays, Two Pointers, Set&Hashing ✅ Completed |
 
 ## 🎯 Challenge Goals
 
@@ -34,7 +35,7 @@ The goal is to build strong problem-solving skills through daily practice, under
 
 ---
 
-🔥 **Day 4/30 completed.**
+🔥 **Day 5/30 completed.**
 
 > Consistency over perfection. One problem at a time.
 
