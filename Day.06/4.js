@@ -1,3 +1,4 @@
+// Approach Brute Force 
 function longest(s) {
     let maxLength = 0;
 
